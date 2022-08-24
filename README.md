@@ -1,5 +1,5 @@
-<h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<h1 align=center>🕊️ Celty Bot 🕊️</h1>
+<img src = "https://telegra.ph/file/611dd77adab66f309ae6d.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
@@ -10,7 +10,7 @@
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
+`python3 -m CeltyBot`
 
 
 ### Configuration
